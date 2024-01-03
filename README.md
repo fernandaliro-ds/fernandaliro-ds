@@ -8,7 +8,7 @@ Sou estudante de Data Science e estou no terceiro semestre.
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandalirods&show_icons=true&theme=rose_pine)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandalirods&layout=compact&theme=rose_pine)
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
